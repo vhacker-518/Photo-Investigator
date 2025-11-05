@@ -65,4 +65,3 @@ Copyright (c) 2025 ml-ftt
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-... (standard MIT text) ...
